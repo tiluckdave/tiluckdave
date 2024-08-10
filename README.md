@@ -1,16 +1,17 @@
-## Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-tiluckdave-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiluckdave/)](https://www.linkedin.com/in/tiluckdave/)
+[![Gmail Badge](https://img.shields.io/badge/-hello@tiluckdave.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@tiluckdave.in)](mailto:hello@tiluckdave.in)
 
-<!--
-**tiluckdave/tiluckdave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Welcome, I am Tilak <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+Full Stack Web Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Summary👋
+- 🔭 I’m currently working on AI agents who can code like real developers.
+- 🧠 My stack is TypeScript, NextJs, Python, Tailwind, PostgreSQL and everything around it. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tiluckdave/), [Email](mailto:hello@tiluckdave.in)
+- 📄 Looking for my resume? [Click Here](https://tiluckdave.in/resume.pdf)
+
+### Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
