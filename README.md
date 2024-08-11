@@ -21,3 +21,5 @@ Full Stack Web Developer.
 5. 🗣 Commented on [#260](https://github.com/aadeshkulkarni/figuringout/issues/260#issuecomment-2269667882) in [aadeshkulkarni/figuringout](https://github.com/aadeshkulkarni/figuringout)
 6. 🗣 Commented on [#119](https://github.com/fylein/fyle-interview-intern-backend/pull/119#issuecomment-2261182401) in [fylein/fyle-interview-intern-backend](https://github.com/fylein/fyle-interview-intern-backend)
 <!--END_SECTION:activity-->
+
+My profile picture is AI generated made by finetuning Stable Diffusion by utilising auto train dream booth by hugging face.
