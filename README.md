@@ -22,6 +22,7 @@ Full Stack Web Developer.
 6. 🗣 Commented on [#260](https://github.com/aadeshkulkarni/figuringout/issues/260#issuecomment-2269667882) in [aadeshkulkarni/figuringout](https://github.com/aadeshkulkarni/figuringout)
 <!--END_SECTION:activity-->
 
----
 
-> My profile picture is AI-generated using fine-tuned Stable Diffusion, utilizing Auto Train DreamBooth by Hugging Face.
+
+
+###### My profile picture is AI-generated using fine-tuned Stable Diffusion, utilizing Auto Train DreamBooth by Hugging Face.
