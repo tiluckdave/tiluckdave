@@ -14,12 +14,12 @@ Full Stack Web Developer.
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#246](https://github.com/gauge-sh/tach/pull/246) in [gauge-sh/tach](https://github.com/gauge-sh/tach)
-2. 🗣 Commented on [#2466](https://github.com/yamada-ui/yamada-ui/issues/2466#issuecomment-2280853127) in [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui)
-3. 🗣 Commented on [#236](https://github.com/gauge-sh/tach/pull/236#issuecomment-2273951079) in [gauge-sh/tach](https://github.com/gauge-sh/tach)
-4. 🗣 Commented on [#236](https://github.com/gauge-sh/tach/pull/236#issuecomment-2273950610) in [gauge-sh/tach](https://github.com/gauge-sh/tach)
-5. 💪 Opened PR [#236](https://github.com/gauge-sh/tach/pull/236) in [gauge-sh/tach](https://github.com/gauge-sh/tach)
-6. 🗣 Commented on [#260](https://github.com/aadeshkulkarni/figuringout/issues/260#issuecomment-2269667882) in [aadeshkulkarni/figuringout](https://github.com/aadeshkulkarni/figuringout)
+1. 🗣 Commented on [#276](https://github.com/gauge-sh/tach/issues/276#issuecomment-2318644778) in [gauge-sh/tach](https://github.com/gauge-sh/tach)
+2. 💪 Opened PR [#246](https://github.com/gauge-sh/tach/pull/246) in [gauge-sh/tach](https://github.com/gauge-sh/tach)
+3. 🗣 Commented on [#2466](https://github.com/yamada-ui/yamada-ui/issues/2466#issuecomment-2280853127) in [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui)
+4. 🗣 Commented on [#236](https://github.com/gauge-sh/tach/pull/236#issuecomment-2273951079) in [gauge-sh/tach](https://github.com/gauge-sh/tach)
+5. 🗣 Commented on [#236](https://github.com/gauge-sh/tach/pull/236#issuecomment-2273950610) in [gauge-sh/tach](https://github.com/gauge-sh/tach)
+6. 💪 Opened PR [#236](https://github.com/gauge-sh/tach/pull/236) in [gauge-sh/tach](https://github.com/gauge-sh/tach)
 <!--END_SECTION:activity-->
 
 
