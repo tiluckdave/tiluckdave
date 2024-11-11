@@ -12,7 +12,6 @@ Full Stack Web Developer.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tiluckdave/), [Email](mailto:hello@tiluckdave.in)
 - 📄 Looking for my resume? [Click Here](https://tiluckdave.in/resume.pdf)
 - 🎤 Licensee of TEDxVITPune 2025
-- 🎤 Licensee of TEDxVITPune 2025
 
 ### Recent Activity
 <!--START_SECTION:activity-->
