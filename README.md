@@ -8,9 +8,11 @@ Full Stack Web Developer.
 
 ### Summary👋
 - 🔭 I’m currently working on AI agents who can code like real developers.
-- 🧠 My stack is TypeScript, NextJs, Python, Tailwind, PostgreSQL and everything around it. 
+- 🧠 My stack is TypeScript, NextJs, Python, Tailwind, PostgreSQL and everything around it.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tiluckdave/), [Email](mailto:hello@tiluckdave.in)
 - 📄 Looking for my resume? [Click Here](https://tiluckdave.in/resume.pdf)
+- 🎤 Licensee of TEDxVITPune 2025
+- 🎤 Licensee of TEDxVITPune 2025
 
 ### Recent Activity
 <!--START_SECTION:activity-->
