@@ -15,12 +15,12 @@ Full Stack Web Developer.
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/tiluckdave/tic-tac-toe/issues/1) in [tiluckdave/tic-tac-toe](https://github.com/tiluckdave/tic-tac-toe)
-2. ❗ Opened issue [#1](https://github.com/tiluckdave/tic-tac-toe/issues/1) in [tiluckdave/tic-tac-toe](https://github.com/tiluckdave/tic-tac-toe)
-3. 🔒 Closed issue [#1](https://github.com/tiluckdave/tiluckdave/issues/1) in [tiluckdave/tiluckdave](https://github.com/tiluckdave/tiluckdave)
-4. 🎉 Merged PR [#2](https://github.com/tiluckdave/tiluckdave/pull/2) in [tiluckdave/tiluckdave](https://github.com/tiluckdave/tiluckdave)
-5. ❗ Opened issue [#1](https://github.com/tiluckdave/tiluckdave/issues/1) in [tiluckdave/tiluckdave](https://github.com/tiluckdave/tiluckdave)
-6. 🔒 Closed issue [#1](https://github.com/tiluckdave/clock/issues/1) in [tiluckdave/clock](https://github.com/tiluckdave/clock)
+1. ❗ Opened issue [#16](https://github.com/tiluckdave/angler-landing/issues/16) in [tiluckdave/angler-landing](https://github.com/tiluckdave/angler-landing)
+2. 🔒 Closed issue [#15](https://github.com/tiluckdave/angler-landing/issues/15) in [tiluckdave/angler-landing](https://github.com/tiluckdave/angler-landing)
+3. 🔒 Closed issue [#1](https://github.com/tiluckdave/tic-tac-toe/issues/1) in [tiluckdave/tic-tac-toe](https://github.com/tiluckdave/tic-tac-toe)
+4. ❗ Opened issue [#1](https://github.com/tiluckdave/tic-tac-toe/issues/1) in [tiluckdave/tic-tac-toe](https://github.com/tiluckdave/tic-tac-toe)
+5. 🔒 Closed issue [#1](https://github.com/tiluckdave/tiluckdave/issues/1) in [tiluckdave/tiluckdave](https://github.com/tiluckdave/tiluckdave)
+6. 🎉 Merged PR [#2](https://github.com/tiluckdave/tiluckdave/pull/2) in [tiluckdave/tiluckdave](https://github.com/tiluckdave/tiluckdave)
 <!--END_SECTION:activity-->
 
 
