@@ -22,8 +22,3 @@ Full Stack Web Developer.
 5. 🔒 Closed issue [#1](https://github.com/tiluckdave/tiluckdave/issues/1) in [tiluckdave/tiluckdave](https://github.com/tiluckdave/tiluckdave)
 6. 🎉 Merged PR [#2](https://github.com/tiluckdave/tiluckdave/pull/2) in [tiluckdave/tiluckdave](https://github.com/tiluckdave/tiluckdave)
 <!--END_SECTION:activity-->
-
-
-
-
-###### My profile picture is AI-generated using fine-tuned Stable Diffusion, utilizing Auto Train DreamBooth by Hugging Face.
