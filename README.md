@@ -15,8 +15,8 @@ Full Stack Web Developer.
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/tiluckdave/angler-landing/issues/16) in [tiluckdave/angler-landing](https://github.com/tiluckdave/angler-landing)
-2. 🔒 Closed issue [#15](https://github.com/tiluckdave/angler-landing/issues/15) in [tiluckdave/angler-landing](https://github.com/tiluckdave/angler-landing)
+1. 🗣 Commented on [#27](https://github.com/superglue-ai/superglue/issues/27#issuecomment-2975228327) in [superglue-ai/superglue](https://github.com/superglue-ai/superglue)
+2. 🗣 Commented on [#927](https://github.com/Mail-0/Zero/issues/927#issuecomment-2973778759) in [Mail-0/Zero](https://github.com/Mail-0/Zero)
 3. 🔒 Closed issue [#1](https://github.com/tiluckdave/tic-tac-toe/issues/1) in [tiluckdave/tic-tac-toe](https://github.com/tiluckdave/tic-tac-toe)
 4. ❗ Opened issue [#1](https://github.com/tiluckdave/tic-tac-toe/issues/1) in [tiluckdave/tic-tac-toe](https://github.com/tiluckdave/tic-tac-toe)
 5. 🔒 Closed issue [#1](https://github.com/tiluckdave/tiluckdave/issues/1) in [tiluckdave/tiluckdave](https://github.com/tiluckdave/tiluckdave)
