@@ -4,14 +4,13 @@
 ---
 
 # Welcome, I am Tilak <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-Full Stack Web Developer.
+Software Engineer
 
 ### Summary👋
-- 🔭 I’m currently working on AI agents who can code like real developers.
+- 🔭 I’m currently working not sure what!
 - 🧠 My stack is TypeScript, NextJs, Python, Tailwind, PostgreSQL and everything around it.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tiluckdave/), [Email](mailto:hello@tiluckdave.in)
 - 📄 Looking for my resume? [Click Here](https://tiluckdave.in/resume.pdf)
-- 🎤 Licensee of TEDxVITPune 2025
 
 ### Recent Activity
 <!--START_SECTION:activity-->
