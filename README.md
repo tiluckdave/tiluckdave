@@ -14,7 +14,7 @@ Software Engineer
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/tiluckdave/storyloom/pull/2) in [tiluckdave/storyloom](https://github.com/tiluckdave/storyloom)
+1. 🔒 Closed issue [#3](https://github.com/tiluckdave/prempushp-admin/issues/3) in [tiluckdave/prempushp-admin](https://github.com/tiluckdave/prempushp-admin)
 2. 💪 Opened PR [#2](https://github.com/tiluckdave/storyloom/pull/2) in [tiluckdave/storyloom](https://github.com/tiluckdave/storyloom)
 3. 🎉 Merged PR [#1](https://github.com/tiluckdave/storyloom/pull/1) in [tiluckdave/storyloom](https://github.com/tiluckdave/storyloom)
 4. 💪 Opened PR [#1](https://github.com/tiluckdave/storyloom/pull/1) in [tiluckdave/storyloom](https://github.com/tiluckdave/storyloom)
