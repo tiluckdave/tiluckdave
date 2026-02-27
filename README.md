@@ -14,7 +14,7 @@ Software Engineer
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/tiluckdave/prempushp-admin/issues/3) in [tiluckdave/prempushp-admin](https://github.com/tiluckdave/prempushp-admin)
+1. 💪 Opened PR [#1596](https://github.com/modelcontextprotocol/typescript-sdk/pull/1596) in [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
 2. 💪 Opened PR [#2](https://github.com/tiluckdave/storyloom/pull/2) in [tiluckdave/storyloom](https://github.com/tiluckdave/storyloom)
 3. 🎉 Merged PR [#1](https://github.com/tiluckdave/storyloom/pull/1) in [tiluckdave/storyloom](https://github.com/tiluckdave/storyloom)
 4. 💪 Opened PR [#1](https://github.com/tiluckdave/storyloom/pull/1) in [tiluckdave/storyloom](https://github.com/tiluckdave/storyloom)
