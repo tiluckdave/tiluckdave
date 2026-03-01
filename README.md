@@ -14,8 +14,8 @@ Software Engineer
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1596](https://github.com/modelcontextprotocol/typescript-sdk/pull/1596) in [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
-2. 💪 Opened PR [#2](https://github.com/tiluckdave/storyloom/pull/2) in [tiluckdave/storyloom](https://github.com/tiluckdave/storyloom)
+1. 💪 Opened PR [#21641](https://github.com/Homebrew/brew/pull/21641) in [Homebrew/brew](https://github.com/Homebrew/brew)
+2. 💪 Opened PR [#1596](https://github.com/modelcontextprotocol/typescript-sdk/pull/1596) in [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
 3. 🎉 Merged PR [#1](https://github.com/tiluckdave/storyloom/pull/1) in [tiluckdave/storyloom](https://github.com/tiluckdave/storyloom)
 4. 💪 Opened PR [#1](https://github.com/tiluckdave/storyloom/pull/1) in [tiluckdave/storyloom](https://github.com/tiluckdave/storyloom)
 5. 💪 Opened PR [#20180](https://github.com/Homebrew/brew/pull/20180) in [Homebrew/brew](https://github.com/Homebrew/brew)
