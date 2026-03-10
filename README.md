@@ -14,10 +14,10 @@ Software Engineer
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21671](https://github.com/Homebrew/brew/pull/21671) in [Homebrew/brew](https://github.com/Homebrew/brew)
-2. 🗣 Commented on [#21482](https://github.com/Homebrew/brew/issues/21482#issuecomment-3999532601) in [Homebrew/brew](https://github.com/Homebrew/brew)
-3. 🗣 Commented on [#1596](https://github.com/modelcontextprotocol/typescript-sdk/pull/1596#issuecomment-3992935480) in [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
-4. 🎉 Merged PR [#21641](https://github.com/Homebrew/brew/pull/21641) in [Homebrew/brew](https://github.com/Homebrew/brew)
-5. 💪 Opened PR [#21641](https://github.com/Homebrew/brew/pull/21641) in [Homebrew/brew](https://github.com/Homebrew/brew)
-6. 💪 Opened PR [#1596](https://github.com/modelcontextprotocol/typescript-sdk/pull/1596) in [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
+1. ❌ Closed PR [#21671](https://github.com/Homebrew/brew/pull/21671) in [Homebrew/brew](https://github.com/Homebrew/brew)
+2. 💪 Opened PR [#21671](https://github.com/Homebrew/brew/pull/21671) in [Homebrew/brew](https://github.com/Homebrew/brew)
+3. 🗣 Commented on [#21482](https://github.com/Homebrew/brew/issues/21482#issuecomment-3999532601) in [Homebrew/brew](https://github.com/Homebrew/brew)
+4. 🗣 Commented on [#1596](https://github.com/modelcontextprotocol/typescript-sdk/pull/1596#issuecomment-3992935480) in [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
+5. 🎉 Merged PR [#21641](https://github.com/Homebrew/brew/pull/21641) in [Homebrew/brew](https://github.com/Homebrew/brew)
+6. 💪 Opened PR [#21641](https://github.com/Homebrew/brew/pull/21641) in [Homebrew/brew](https://github.com/Homebrew/brew)
 <!--END_SECTION:activity-->
