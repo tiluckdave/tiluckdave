@@ -14,10 +14,10 @@ Software Engineer
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#21671](https://github.com/Homebrew/brew/pull/21671) in [Homebrew/brew](https://github.com/Homebrew/brew)
-2. 💪 Opened PR [#21671](https://github.com/Homebrew/brew/pull/21671) in [Homebrew/brew](https://github.com/Homebrew/brew)
-3. 🗣 Commented on [#21482](https://github.com/Homebrew/brew/issues/21482#issuecomment-3999532601) in [Homebrew/brew](https://github.com/Homebrew/brew)
-4. 🗣 Commented on [#1596](https://github.com/modelcontextprotocol/typescript-sdk/pull/1596#issuecomment-3992935480) in [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
-5. 🎉 Merged PR [#21641](https://github.com/Homebrew/brew/pull/21641) in [Homebrew/brew](https://github.com/Homebrew/brew)
-6. 💪 Opened PR [#21641](https://github.com/Homebrew/brew/pull/21641) in [Homebrew/brew](https://github.com/Homebrew/brew)
+1. 🗣 Commented on [#22](https://github.com/tiluckdave/hound-mcp/pull/22#issuecomment-4041257975) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+2. 🗣 Commented on [#21](https://github.com/tiluckdave/hound-mcp/pull/21#issuecomment-4041175929) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+3. ℹ️ Labeled issue [#20](https://github.com/tiluckdave/hound-mcp/issues/20) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+4. ℹ️ Labeled issue [#20](https://github.com/tiluckdave/hound-mcp/issues/20) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+5. ℹ️ Labeled issue [#20](https://github.com/tiluckdave/hound-mcp/issues/20) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+6. ❗ Opened issue [#20](https://github.com/tiluckdave/hound-mcp/issues/20) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
 <!--END_SECTION:activity-->
