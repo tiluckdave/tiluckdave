@@ -14,10 +14,10 @@ Software Engineer
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/tiluckdave/hound-mcp/issues/12) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-2. 🎉 Merged PR [#29](https://github.com/tiluckdave/hound-mcp/pull/29) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-3. 🔒 Closed issue [#8](https://github.com/tiluckdave/hound-mcp/issues/8) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-4. 🗣 Commented on [#34](https://github.com/tiluckdave/hound-mcp/pull/34#issuecomment-4060454159) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-5. ℹ️ Unlabeled issue [#16](https://github.com/tiluckdave/hound-mcp/issues/16) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-6. ℹ️ Labeled issue [#16](https://github.com/tiluckdave/hound-mcp/issues/16) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+1. 💪 Opened PR [#5652](https://github.com/up-for-grabs/up-for-grabs.net/pull/5652) in [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)
+2. ❌ Closed PR [#1](https://github.com/tiluckdave/up-for-grabs.net/pull/1) in [tiluckdave/up-for-grabs.net](https://github.com/tiluckdave/up-for-grabs.net)
+3. 💪 Opened PR [#1](https://github.com/tiluckdave/up-for-grabs.net/pull/1) in [tiluckdave/up-for-grabs.net](https://github.com/tiluckdave/up-for-grabs.net)
+4. ℹ️ Labeled issue [#43](https://github.com/tiluckdave/hound-mcp/issues/43) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+5. ℹ️ Labeled issue [#43](https://github.com/tiluckdave/hound-mcp/issues/43) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+6. ❗ Opened issue [#43](https://github.com/tiluckdave/hound-mcp/issues/43) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
 <!--END_SECTION:activity-->
