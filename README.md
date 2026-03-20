@@ -14,10 +14,10 @@ Software Engineer
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5652](https://github.com/up-for-grabs/up-for-grabs.net/pull/5652) in [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)
-2. ❌ Closed PR [#1](https://github.com/tiluckdave/up-for-grabs.net/pull/1) in [tiluckdave/up-for-grabs.net](https://github.com/tiluckdave/up-for-grabs.net)
-3. 💪 Opened PR [#1](https://github.com/tiluckdave/up-for-grabs.net/pull/1) in [tiluckdave/up-for-grabs.net](https://github.com/tiluckdave/up-for-grabs.net)
-4. ℹ️ Labeled issue [#43](https://github.com/tiluckdave/hound-mcp/issues/43) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+1. 💪 Opened PR [#1709](https://github.com/modelcontextprotocol/typescript-sdk/pull/1709) in [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
+2. 💪 Opened PR [#5652](https://github.com/up-for-grabs/up-for-grabs.net/pull/5652) in [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)
+3. ❌ Closed PR [#1](https://github.com/tiluckdave/up-for-grabs.net/pull/1) in [tiluckdave/up-for-grabs.net](https://github.com/tiluckdave/up-for-grabs.net)
+4. 💪 Opened PR [#1](https://github.com/tiluckdave/up-for-grabs.net/pull/1) in [tiluckdave/up-for-grabs.net](https://github.com/tiluckdave/up-for-grabs.net)
 5. ℹ️ Labeled issue [#43](https://github.com/tiluckdave/hound-mcp/issues/43) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-6. ❗ Opened issue [#43](https://github.com/tiluckdave/hound-mcp/issues/43) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+6. ℹ️ Labeled issue [#43](https://github.com/tiluckdave/hound-mcp/issues/43) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
 <!--END_SECTION:activity-->
