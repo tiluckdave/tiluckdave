@@ -14,10 +14,10 @@ Software Engineer
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#39](https://github.com/tiluckdave/hound-mcp/issues/39) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-2. 🎉 Merged PR [#5652](https://github.com/up-for-grabs/up-for-grabs.net/pull/5652) in [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)
-3. 🗣 Commented on [#46](https://github.com/tiluckdave/hound-mcp/pull/46#issuecomment-4100344007) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-4. 🗣 Commented on [#44](https://github.com/tiluckdave/hound-mcp/pull/44#issuecomment-4098194403) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-5. 💪 Opened PR [#1709](https://github.com/modelcontextprotocol/typescript-sdk/pull/1709) in [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
-6. 💪 Opened PR [#5652](https://github.com/up-for-grabs/up-for-grabs.net/pull/5652) in [up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)
+1. 🎉 Merged PR [#1596](https://github.com/modelcontextprotocol/typescript-sdk/pull/1596) in [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
+2. 🎉 Merged PR [#48](https://github.com/tiluckdave/hound-mcp/pull/48) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+3. 💪 Opened PR [#48](https://github.com/tiluckdave/hound-mcp/pull/48) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+4. 🔒 Closed issue [#42](https://github.com/tiluckdave/hound-mcp/issues/42) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+5. 🔒 Closed issue [#17](https://github.com/tiluckdave/hound-mcp/issues/17) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+6. 🔒 Closed issue [#20](https://github.com/tiluckdave/hound-mcp/issues/20) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
 <!--END_SECTION:activity-->
