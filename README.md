@@ -14,10 +14,10 @@ Software Engineer
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1596](https://github.com/modelcontextprotocol/typescript-sdk/pull/1596) in [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
-2. 🎉 Merged PR [#48](https://github.com/tiluckdave/hound-mcp/pull/48) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-3. 💪 Opened PR [#48](https://github.com/tiluckdave/hound-mcp/pull/48) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-4. 🔒 Closed issue [#42](https://github.com/tiluckdave/hound-mcp/issues/42) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-5. 🔒 Closed issue [#17](https://github.com/tiluckdave/hound-mcp/issues/17) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-6. 🔒 Closed issue [#20](https://github.com/tiluckdave/hound-mcp/issues/20) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+1. 🗣 Commented on [#49](https://github.com/tiluckdave/hound-mcp/pull/49#issuecomment-4125450315) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+2. 🎉 Merged PR [#1596](https://github.com/modelcontextprotocol/typescript-sdk/pull/1596) in [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
+3. 🎉 Merged PR [#48](https://github.com/tiluckdave/hound-mcp/pull/48) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+4. 💪 Opened PR [#48](https://github.com/tiluckdave/hound-mcp/pull/48) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+5. 🔒 Closed issue [#42](https://github.com/tiluckdave/hound-mcp/issues/42) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+6. 🔒 Closed issue [#17](https://github.com/tiluckdave/hound-mcp/issues/17) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
 <!--END_SECTION:activity-->
