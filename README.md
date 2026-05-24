@@ -14,10 +14,10 @@ Software Engineer
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/tiluckdave/hound-mcp/pull/56#issuecomment-4469700353) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-2. ❌ Closed PR [#54](https://github.com/tiluckdave/hound-mcp/pull/54) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-3. ❌ Closed PR [#51](https://github.com/tiluckdave/hound-mcp/pull/51) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-4. ❌ Closed PR [#55](https://github.com/tiluckdave/hound-mcp/pull/55) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-5. 🔒 Closed issue [#40](https://github.com/tiluckdave/hound-mcp/issues/40) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-6. 🔒 Closed issue [#17](https://github.com/tiluckdave/hound-mcp/issues/17) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+1. 🗣 Commented on [#65](https://github.com/tiluckdave/hound-mcp/issues/65#issuecomment-4525899330) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+2. ℹ️ Assigned issue [#65](https://github.com/tiluckdave/hound-mcp/issues/65) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+3. 🚀 Published release [v0.2.4](https://github.com/tiluckdave/hound-mcp/releases/tag/v0.2.4) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+4. ℹ️ Labeled issue [#68](https://github.com/tiluckdave/hound-mcp/issues/68) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+5. ℹ️ Labeled issue [#68](https://github.com/tiluckdave/hound-mcp/issues/68) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+6. ℹ️ Labeled issue [#68](https://github.com/tiluckdave/hound-mcp/issues/68) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
 <!--END_SECTION:activity-->
