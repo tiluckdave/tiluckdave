@@ -14,10 +14,10 @@ Software Engineer
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/tiluckdave/hound-mcp/issues/66#issuecomment-4548274461) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-2. 🗣 Commented on [#43](https://github.com/tiluckdave/hound-mcp/issues/43#issuecomment-4548285862) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-3. 🗣 Commented on [#65](https://github.com/tiluckdave/hound-mcp/issues/65#issuecomment-4525899330) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-4. ℹ️ Assigned issue [#65](https://github.com/tiluckdave/hound-mcp/issues/65) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-5. 🚀 Published release [v0.2.4](https://github.com/tiluckdave/hound-mcp/releases/tag/v0.2.4) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-6. ℹ️ Labeled issue [#68](https://github.com/tiluckdave/hound-mcp/issues/68) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+1. 🗣 Commented on [#70](https://github.com/tiluckdave/hound-mcp/pull/70#issuecomment-4551306683) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+2. 🗣 Commented on [#69](https://github.com/tiluckdave/hound-mcp/pull/69#issuecomment-4551303929) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+3. 🗣 Commented on [#66](https://github.com/tiluckdave/hound-mcp/issues/66#issuecomment-4548274461) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+4. 🗣 Commented on [#43](https://github.com/tiluckdave/hound-mcp/issues/43#issuecomment-4548285862) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+5. 🗣 Commented on [#65](https://github.com/tiluckdave/hound-mcp/issues/65#issuecomment-4525899330) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+6. ℹ️ Assigned issue [#65](https://github.com/tiluckdave/hound-mcp/issues/65) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
 <!--END_SECTION:activity-->
