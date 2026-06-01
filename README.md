@@ -14,10 +14,10 @@ Software Engineer
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/tiluckdave/hound-mcp/pull/70#issuecomment-4551306683) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-2. 🗣 Commented on [#69](https://github.com/tiluckdave/hound-mcp/pull/69#issuecomment-4551303929) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-3. 🗣 Commented on [#66](https://github.com/tiluckdave/hound-mcp/issues/66#issuecomment-4548274461) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-4. 🗣 Commented on [#43](https://github.com/tiluckdave/hound-mcp/issues/43#issuecomment-4548285862) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-5. 🗣 Commented on [#65](https://github.com/tiluckdave/hound-mcp/issues/65#issuecomment-4525899330) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
-6. ℹ️ Assigned issue [#65](https://github.com/tiluckdave/hound-mcp/issues/65) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+1. 🗣 Commented on [#68](https://github.com/tiluckdave/hound-mcp/issues/68#issuecomment-4586683643) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+2. 🗣 Commented on [#67](https://github.com/tiluckdave/hound-mcp/issues/67#issuecomment-4586682651) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+3. 🗣 Commented on [#66](https://github.com/tiluckdave/hound-mcp/issues/66#issuecomment-4586681652) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+4. 🗣 Commented on [#65](https://github.com/tiluckdave/hound-mcp/issues/65#issuecomment-4586680617) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+5. 🗣 Commented on [#63](https://github.com/tiluckdave/hound-mcp/issues/63#issuecomment-4586679247) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
+6. 🗣 Commented on [#64](https://github.com/tiluckdave/hound-mcp/issues/64#issuecomment-4586677694) in [tiluckdave/hound-mcp](https://github.com/tiluckdave/hound-mcp)
 <!--END_SECTION:activity-->
